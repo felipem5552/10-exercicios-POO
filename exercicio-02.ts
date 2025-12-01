@@ -49,7 +49,7 @@ class AvaliacaoFisica {
   }
 }
 
-// --------- Exemplo de uso ---------
+// Exemplo de uso 
 const avaliacao = new AvaliacaoFisica(123, 2024, "João da Silva")
 
 avaliacao.adicionarAvaliacao("Peso: 70kg | Altura: 1.75")
