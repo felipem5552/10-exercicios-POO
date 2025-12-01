@@ -18,7 +18,7 @@ class Televisor {
     if (novoCanal >= 1 && novoCanal <= 100) {
       this.canal = novoCanal
     } else {
-      console.log("Canal inválido. Deve ser entre 1 e 100")
+      console.log("Canal inválido")
     }
   }
 
