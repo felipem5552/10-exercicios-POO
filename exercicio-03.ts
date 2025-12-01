@@ -27,7 +27,7 @@ class ContaCorrente {
   }
 }
 
-// -------- Exemplo de uso --------
+// Exemplo de uso
 const conta = new ContaCorrente(123, "João", 100)
 
 conta.depositar(50)
