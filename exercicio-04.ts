@@ -39,7 +39,7 @@ class Televisor {
   }
 }
 
-// -------- Exemplo de uso --------
+// Exemplo de uso 
 const tv = new Televisor()
 
 tv.mudarCanal(25)
