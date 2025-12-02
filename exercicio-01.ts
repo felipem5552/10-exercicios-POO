@@ -24,5 +24,5 @@ class AlunoAcademia {
 // Exemplo de uso 
 const aluno = new AlunoAcademia("João", 2000, 70, 1.75)
 
-console.log("Nome:", aluno.nome);
+console.log("Nome:", aluno.nome)
 console.log("Idade:", aluno.calculaIdade())
