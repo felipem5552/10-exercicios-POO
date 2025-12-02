@@ -33,7 +33,7 @@ class Macaco {
 }
 
 //Teste Interativo 
-const macaco1 = new Macaco("Chico)
+const macaco1 = new Macaco("Chico")
 const macaco2 = new Macaco("Banano")
 
 // Alimentar 3 vezes
