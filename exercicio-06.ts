@@ -25,3 +25,4 @@ class BombaCombustivel {
     this.quantidade = qtd
   }
 }
+
